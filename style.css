@@ -26,3 +26,22 @@ p {
 em strong {
   color: green;
 }
+.itens {
+  font-style: italic;
+}
+.beneficios {
+  background: #FFFFFF;
+  padding: 20px;
+}
+h2{
+  text-align: center;
+}
+ul {
+  display: inline-block;
+  Vertical-align: top;
+  width: 20%;
+  margin-rigth: 15%;
+}
+.imagem-beneficios {
+  width: 50%
+}
