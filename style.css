@@ -1,23 +1,27 @@
-*{
+* {
   margin: 0;
   podding: 0;
 }
-body {
-  
-}
+
+body {}
+
 #banner {
   width: 100%;
 }
+
 .principal {
-background-color: #CCCCCC;
-padding: 30px
+  background-color: #CCCCCC;
+  padding: 30px
 }
+
 .titulo-principal {
   padding-left: 20px;
 }
+
 .titulo-secundario {
   text-align: center;
 }
+
 p {
   text-align: center;
 }
@@ -29,9 +33,11 @@ p {
 em strong {
   color: green;
 }
+
 .itens {
   font-style: italic;
 }
+
 .beneficios {
   background: #FFFFFF;
   padding: 20px;
@@ -43,6 +49,7 @@ ul {
   width: 20%;
   margin-rigth: 15%;
 }
+
 .imagem-beneficios {
   width: 50%
 }
