@@ -10,7 +10,7 @@ header {
 nav{
   position: absolute;
   top: 110px;
-  rigth: 0;
+  right: 0;
 }
 nav li{
   display: inline;
@@ -24,7 +24,7 @@ nav a{
   text-decoration: none;
 }
 nav a:hover{
-  color: #C78C19
+  color: #C78C19;
   text-decoration: underline;
 }
 .produtos {
@@ -50,7 +50,7 @@ nav a:hover{
   border-color: red;
 }
 .produtos li:hover h2{
-  font-righ: 34px;
+  font-size: 34px;
 }
 .produtos h2 {
   font-size: 30px;
