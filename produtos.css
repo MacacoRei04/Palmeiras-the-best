@@ -101,6 +101,6 @@ form label, form legend {
 }
 .Enviar:hover {
   background: darkred;
-  transform: seale (12);
+  transform: scale(12);
 }
 
