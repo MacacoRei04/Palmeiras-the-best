@@ -119,6 +119,8 @@ td, th {
   transform: scale(12);
 }
 body {
+  font-family:'Montserrat', sans-serif;
+}
 
 .banner {
   width: 100%;
