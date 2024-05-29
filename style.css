@@ -155,6 +155,8 @@ td, th {
 	padding: 8px 15px;
 }
 
+
+/* css da página inicial */
 .banner {
 	width:100%;
 }
@@ -164,6 +166,13 @@ td, th {
 	font-size: 2em;
 	margin: 0 0 1em;
 	clear: left;
+}
+
+.principal {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 940px;
+	margin: 0 auto;
 }
 
 .principal p {
@@ -213,16 +222,18 @@ td, th {
 }
 
 .mapa {
-    padding: 3em 0;
-    background: linear-gradient(#FEFEFE, #888888);
+	padding: 3em 0;
 }
-
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+}
 .mapa p {
-    margin: 0 0 2em;
-    text-align: center;
+	margin: 0 0 2em;
+	text-align: center;
 }
 
 .video {
-    width: 560px;
-    margin: 2em auto;
+	width: 560px;
+	margin: 2em auto;
 }
